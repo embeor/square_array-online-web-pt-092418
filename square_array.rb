@@ -2,6 +2,6 @@
 def square_array (numbers)
   []
   numbers.each do |number|
-    puts 23
+    puts numbers
   end
 end
